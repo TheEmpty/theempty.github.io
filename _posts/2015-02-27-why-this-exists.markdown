@@ -12,8 +12,6 @@ There were a few reasons to grabbing this domain, one was finally having
 "empty" on a TLD. Another was having a domain that was a qualified package
 name, my previous main domain had a hyphen.
 
-<!-- more -->
-
 ## When I Rock
 The site will most likely start being update with projects September.
 That's after I graduate and move.
