@@ -7,6 +7,7 @@ url: "http://empty.rocks" # the base hostname & protocol for your site
 twitter_username: the_empty 
 github_username: theempty
 highlighter: pygments
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
