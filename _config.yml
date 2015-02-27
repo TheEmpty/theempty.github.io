@@ -1,0 +1,12 @@
+# Site settings
+title: Empty Thoughts 
+description: > # this means to ignore newlines until "baseurl:"
+  The site of a young, nerdy developer.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://empty.rocks" # the base hostname & protocol for your site
+twitter_username: the_empty 
+github_username: theempty
+highlighter: pygments
+
+# Build settings
+markdown: kramdown
