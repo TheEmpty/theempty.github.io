@@ -1,12 +1,11 @@
 # Empty Thoughts
-This is a super rought readme just because I got confused when I opened this repo after a year or so away.
+Favicon is using the "Bangers" font from https://favicon.io/
 
-## Blogging System
+## Framework
 Uses [jekyllrb](https://jekyllrb.com/). 
 
 ## Basics / Setup
 ```
-$ gem install bundler
 $ gem install jekyll
 $ jekyll serve
 ```
