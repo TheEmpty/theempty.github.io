@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="jp">
+  <title>最高の日記の</title>
+  <subtitle>アメリカ人はすまらない事を書いた</subtitle>
+  <link href="https://xn--u9jz65nvr6a.com/eleventy-base-blog/feed/feed.xml" rel="self" />
+  <link href="https://xn--u9jz65nvr6a.com/eleventy-base-blog/" />
+  <updated>2026-02-05T00:00:00Z</updated>
+  <id>https://xn--u9jz65nvr6a.com/eleventy-base-blog/</id>
+  <author>
+    <name>Myles Best</name>
+  </author>
+  <entry>
+    <title>すぐ行く</title>
+    <link href="https://xn--u9jz65nvr6a.com/eleventy-base-blog/blog/placeholder/" />
+    <updated>2026-02-05T00:00:00Z</updated>
+    <id>https://xn--u9jz65nvr6a.com/eleventy-base-blog/blog/placeholder/</id>
+    <content type="html">&lt;p&gt;まだ何も書いていません。&lt;/p&gt;
+</content>
+  </entry>
+</feed>
